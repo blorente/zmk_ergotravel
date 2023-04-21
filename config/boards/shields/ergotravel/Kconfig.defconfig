@@ -14,7 +14,7 @@ if SHIELD_ERGOTRAVEL_RIGHT
 config ZMK_KEYBOARD_NAME
 	default "Ergotravel Right"
 
-config USB
+config ZMK_USB
 	default y
 
 endif
